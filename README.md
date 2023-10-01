@@ -33,3 +33,19 @@ We provide the codes for CPSCauSSL and MCCauSSL with the 3D V-Net architecture t
 ### Acknowledgement
 This code is based on the framework of UA-MT. We thank the authors for their codebase.
 
+## Citation
+If you find the code useful for your research, please cite our paper.
+```sh
+@InProceedings{Miao_2023_ICCV,
+    author    = {Miao, Juzheng and Chen, Cheng and Liu, Furui and Wei, Hao and Heng, Pheng-Ann},
+    title     = {CauSSL: Causality-inspired Semi-supervised Learning for Medical Image Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {21426-21437}
+}
+```
+
+## Note
+- Please feel free to contact us or open new issues if you encounter any problem when using our code.
+- Contact: Juzheng Miao ([jzmiao22@cse.cuhk.edu.hk]())
